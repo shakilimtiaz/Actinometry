@@ -100,7 +100,7 @@ Shakil Imtiaz, BSc Physics (Hons)
 
 * [Linkedin](https://www.linkedin.com/in/shakilimtiaz/)
 * [Medium](https://medium.com/@shakilimtiaz)
-* [Email](m ailto:shakil.imtiaz@rediffmail.com)
+* [Email](mailto:shakil.imtiaz@rediffmail.com)
 
 ## References
 
