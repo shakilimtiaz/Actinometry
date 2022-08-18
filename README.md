@@ -38,9 +38,9 @@ $$ F = \frac{ K( \nu_{Ar^{*}} ) \displaystyle \left( \frac{\nu_{Ar^{*}} A_{44}}{
 
 here,
 
-$ \nu_{Ar^{*}} = \displaystyle \frac{c}{\lambda_{Ar^{*}}} $;
+$\nu_{Ar^{*}} = \displaystyle \frac{c}{\lambda_{Ar^{*}}}$;
 
-$ \nu_{H_{\alpha}} = \displaystyle \frac{c}{\lambda_{H_{\alpha}}} $
+$\nu_{H_{\alpha}} = \displaystyle \frac{c}{\lambda_{H_{\alpha}}}$
 
 > while $Q_{T}$ is the factor representing all quenching:
 
