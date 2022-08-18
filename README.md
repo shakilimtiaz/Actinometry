@@ -14,7 +14,7 @@ For density measurements of hydrogen atoms via actinometry, an admixture of argo
 
 ## Getting Started
 
-### Theory: Formulas Involved:
+### Theory: Formulas Involved
 
 > #### The emission intensity of $H-\alpha$ line is given by:
 
