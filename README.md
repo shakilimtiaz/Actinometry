@@ -29,10 +29,12 @@ $k_{R Ar} = A_{44}$,
 $k_{Q Ar^{*}/H}$, $k_{Q Ar^{*}/H_{2}}$ represent the quenching rate constants of $Ar^{*}$ by the $H_{2}$ molecules and the H atoms
 
 > Thus, the ratio of emission intensities result in:
-> $$ \frac{ [H (n = 1)] }{ [Ar (3p)] } = F \frac{ k^{Ar*}_{e} }{ k^{H\alpha}_{e} } Q_{T} \frac{I_{H\alpha}}{I_{Ar}}$$
+
+$$ \frac{ [H (n = 1)] }{ [Ar (3p)] } = F \frac{ k^{Ar*}_{e} }{ k^{H\alpha}_{e} } Q_{T} \frac{I_{H\alpha}}{I_{Ar}}$$
 
 > where $F$ is the optical device factor:
-> $$ F = \frac{ K( \nu_{Ar^{*}} ) \displaystyle \left( \frac{\nu_{Ar^{*}} A_{44}}{k_{R.Ar}} \right) }{ K( \nu_{H_{\alpha}} ) \displaystyle \left( \frac{\nu_{H_{\alpha}} A_{32}}{A_{32} + A_{31}} \right) } $$
+
+$$ F = \frac{ K( \nu_{Ar^{*}} ) \displaystyle \left( \frac{\nu_{Ar^{*}} A_{44}}{k_{R.Ar}} \right) }{ K( \nu_{H_{\alpha}} ) \displaystyle \left( \frac{\nu_{H_{\alpha}} A_{32}}{A_{32} + A_{31}} \right) } $$
 
 here,
 
