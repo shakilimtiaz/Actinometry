@@ -26,7 +26,7 @@ $A_{44}$ is the Einstein Coefficient for spontaeneous transition,
 
 $k_{R Ar} = A_{44}$,
 
-$ k_{Q Ar/H} $ , $ k_{Q Ar/H_{2}} $ represent the quenching rate constants of $Ar$ by the $H_{2}$ molecules and the H atoms
+$k_{Q Ar/H}$ , $k_{Q Ar/H_{2}}$ represent the quenching rate constants of $Ar$ by the $H_{2}$ molecules and the H atoms
 
 > Thus, the ratio of emission intensities result in:
 
