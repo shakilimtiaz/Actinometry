@@ -1,7 +1,7 @@
 # Actinometry of Low Density Hydrogen Plasma
 Optical Emission Spectroscopy. (OES) attains a crucial stance in the measurement of ground electronic state species concentrations and temperatures of plasma. It adheres to a principle of non-perturbation as scaled with other techniques of plasma diagnostics which makes it crucial to the field.
 
-The following repository contains a baseline code for computation of data following optical emission spectroscopy for low density hydrogen plasmas using data assumptions for spectral lines of Hydrogen ($H-\alpha$ precisely) at $656.46 nm$ and Argon used as actinometer at $811.50 nm$. It follows in multiple data points for whom due references have been added wherever required.
+The following repository contains a baseline code for computation of data following optical emission spectroscopy for low density hydrogen plasmas using data assumptions for spectral lines of Hydrogen in $H-\alpha$ at $656.46 nm$ and Argon used as actinometer at $811.50 nm$. It follows in multiple data points for whom due references have been added wherever required.
 
 ### Formulas Involved:
 
