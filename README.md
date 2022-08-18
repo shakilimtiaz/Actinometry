@@ -68,7 +68,7 @@ $$ Q_{T} = Q_{H_{2}} = \frac{ \left( 1 + 0.132 x_{H_{2}} \sigma_{H_{2}}^{H\alpha
      
 Additionally, the code is primitive in the sense that it does not utilize *object oriented programming* and is a single hit and run for one data set. To compute simultaeneous data sets the code has to be re-pasted into another cell block and executed.
 
-### Installation
+### Installation (Jupyter Notebook)
 
 For proper usage, you can find the installation documentation for the [Jupyter platform, on ReadTheDocs](https://jupyter.readthedocs.io/en/latest/install.html). The documentation for advanced usage of Jupyter notebook can be found [here](https://jupyter-notebook.readthedocs.io/en/latest/).
 
@@ -96,11 +96,11 @@ You need some configuration before starting Jupyter notebook remotely. See [Runn
 
 ## Authors
 
-Shakil Imtiaz
+Shakil Imtiaz, BSc Physics (Hons)
 
-[@shakilimtiaz](https://www.linkedin.com/in/shakilimtiaz/)
-
-[Email](mailto:shakil.imtiaz@rediffmail.com)
+* [Linkedin](https://www.linkedin.com/in/shakilimtiaz/)
+* [Medium](https://medium.com/@shakilimtiaz)
+* [Email](m ailto:shakil.imtiaz@rediffmail.com)
 
 ## References
 
