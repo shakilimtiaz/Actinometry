@@ -93,22 +93,19 @@ jupyter notebook
 
 You need some configuration before starting Jupyter notebook remotely. See [Running a notebook server](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-ex. Shakil Imtiaz
-ex. [@shakilimtiaz](https://www.linkedin.com/in/shakilimtiaz/)
-ex. [Email](mailto:shakil.imtiaz@rediffmail.com)
+Shakil Imtiaz
+
+[@shakilimtiaz](https://www.linkedin.com/in/shakilimtiaz/)
+
+[Email](mailto:shakil.imtiaz@rediffmail.com)
 
 ## References
 
 1. <div class="csl-entry">Gicquel, A., Chenevier, M., Hassouni, K., Tserepi, A., &#38; Dubus, M. (1998). Validation of actinometry for estimating relative hydrogen atom densities and electron energy evolution in plasma assisted diamond deposition reactors. <i>Journal of Applied Physics</i>, <i>83</i>(12), 7504–7521. https://doi.org/10.1063/1.367514</div>
 2. <div class="csl-entry">Rousseau, A., Granier, A., Gousset, G., &#38; Leprince, P. (1994). Microwave discharge in H2: Influence of h-atom density on the power balance. <i>Journal of Physics D: Applied Physics</i>, <i>27</i>(7), 1412–1422. https://doi.org/10.1088/0022-3727/27/7/012</div>
 3. <div class="csl-entry">Dyatko, N. A., Kashko, D. A., Pal’, A. F., Serov, A. O., Suetin, N. v., &#38; Filippov, A. v. (1998). Actinometric method for measuring hydrogen-atom density in a glow discharge plasma. <i>Plasma Physics Reports</i>, <i>24</i>(12), 1041–1050.</div>
-4. <div class="csl-entry">Dyatko, N. A., Kashko, D. A., Pal’, A. F., Serov, A. O., Suetin, N. v., &#38; Filippov, A. v. (1998). Actinometric method for measuring hydrogen-atom density in a glow discharge plasma. <i>Plasma Physics Reports</i>, <i>24</i>(12), 1041–1050.</div>
+4. <div class="csl-entry">Turner, M. M., &#38; Daniels, S. (n.d.). <i>Actinometry - Use of Particle in Cell code to generate improved rate constants for determination of absolute O</i>. 1–12.</div>
+5. <div class="csl-entry">Mukherjee, A., Sharma, N., Chakraborty, M., &#38; Saha, P. K. (2022). A study on the influence of external magnetic field on Nitrogen RF discharge using Langmuir probe and OES methods. <i>Physica Scripta</i>, <i>97</i>(5). https://doi.org/10.1088/1402-4896/ac6079</div>
