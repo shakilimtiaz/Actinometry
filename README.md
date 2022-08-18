@@ -48,3 +48,6 @@ $\nu_{H_{\alpha}} = \displaystyle \frac{c}{\lambda_{H_{\alpha}}}$
 > while $Q_{T}$ is the factor representing all quenching:
 
 $$ Q_{T} = Q_{H_{2}} = \frac{ \left( 1 + 0.132 x_{H_{2}} \sigma_{H_{2}}^{H\alpha} PT^{-\frac{1}{2}} \right) } {\left( 1 + 0.162 x_{H_{2}} \sigma_{H_{2}}^{Ar} PT^{-\frac{1}{2}} \right) } $$
+
+## References
+1. <div class="csl-entry">Gicquel, A., Chenevier, M., Hassouni, K., Tserepi, A., &#38; Dubus, M. (1998). Validation of actinometry for estimating relative hydrogen atom densities and electron energy evolution in plasma assisted diamond deposition reactors. <i>Journal of Applied Physics</i>, <i>83</i>(12), 7504–7521. https://doi.org/10.1063/1.367514</div>
