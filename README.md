@@ -3,6 +3,12 @@ Optical Emission Spectroscopy. (OES) attains a crucial stance in the measurement
 
 The following repository contains a baseline code for computation of data following optical emission spectroscopy for low density hydrogen plasmas using data assumptions for spectral lines of Hydrogen in $H-\alpha$ at $656.46$ nm and Argon used as actinometer at $811.50$ nm. It follows in multiple data points for whom due references have been added wherever required.
 
+However, measurements made by OES have to be interpreted carefully. As a matter of fact, OES provides measurements of species in electronic excited states which participates only in a minor proportion to the plasma or plasma/surface chemistry and which are at a concentration levels of less than $10^{-4}$ with respect to species in the electronic ground state.
+
+The actinometric method proceeds with trace amounts of the actinometer particles added to the gas under study. For the actinometer, a chemically inert element whose characteristics (emission spectrum, electron excitation cross sections, coefficients of collisional and radiative quenching of excited states, etc.) are well known is used.
+
+For density measurements of hydrogen atoms via actinometry, an admixture of argon atoms is usually used.
+
 ### Formulas Involved:
 
 > #### The emission intensity of $H-\alpha$ line is given by:
@@ -51,3 +57,6 @@ $$ Q_{T} = Q_{H_{2}} = \frac{ \left( 1 + 0.132 x_{H_{2}} \sigma_{H_{2}}^{H\alpha
 
 ## References
 1. <div class="csl-entry">Gicquel, A., Chenevier, M., Hassouni, K., Tserepi, A., &#38; Dubus, M. (1998). Validation of actinometry for estimating relative hydrogen atom densities and electron energy evolution in plasma assisted diamond deposition reactors. <i>Journal of Applied Physics</i>, <i>83</i>(12), 7504–7521. https://doi.org/10.1063/1.367514</div>
+2. <div class="csl-entry">Rousseau, A., Granier, A., Gousset, G., &#38; Leprince, P. (1994). Microwave discharge in H2: Influence of h-atom density on the power balance. <i>Journal of Physics D: Applied Physics</i>, <i>27</i>(7), 1412–1422. https://doi.org/10.1088/0022-3727/27/7/012</div>
+3. <div class="csl-entry">Dyatko, N. A., Kashko, D. A., Pal’, A. F., Serov, A. O., Suetin, N. v., &#38; Filippov, A. v. (1998). Actinometric method for measuring hydrogen-atom density in a glow discharge plasma. <i>Plasma Physics Reports</i>, <i>24</i>(12), 1041–1050.</div>
+4. <div class="csl-entry">Dyatko, N. A., Kashko, D. A., Pal’, A. F., Serov, A. O., Suetin, N. v., &#38; Filippov, A. v. (1998). Actinometric method for measuring hydrogen-atom density in a glow discharge plasma. <i>Plasma Physics Reports</i>, <i>24</i>(12), 1041–1050.</div>
