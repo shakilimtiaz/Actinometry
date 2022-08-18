@@ -18,7 +18,7 @@ $k_{Q H_{\alpha}/H}$, $k_{Q H_{\alpha}/H_{2}}$ represent the quenching rate cons
 
 > #### The emission intensity of $Ar$ line is given by:
 
-$$ I_{Ar} = K(\nu_{Ar^{*}}) A_{44} \nu_{Ar^{*}} \nu_{emiss} \displaystyle \frac{ [Ar(3p)] k^{Ar^{*}}_{e} n_{e}}{ [H] k_{Q Ar^{*}/H} + [H_{2}] k_{Q Ar^{*}/H_{2}} + k_{R Ar^{*}} }$$
+$$ I_{Ar} = K(\nu_{Ar}) A_{44} \nu_{Ar} \nu_{emiss} \displaystyle \frac{ [Ar(3p)] k^{Ar}_{e} n_{e}}{ [H] k_{Q Ar/H} + [H_{2}] k_{Q Ar/H_{2}} + k_{R Ar} }$$
 
 where,
 
@@ -26,7 +26,7 @@ $A_{44}$ is the Einstein Coefficient for spontaeneous transition,
 
 $k_{R Ar} = A_{44}$,
 
-$ k_{Q Ar^{*}/H} $ , $ k_{Q Ar^{*}/H_{2}} $ represent the quenching rate constants of $Ar^{*}$ by the $H_{2}$ molecules and the H atoms
+$ k_{Q Ar/H} $ , $ k_{Q Ar/H_{2}} $ represent the quenching rate constants of $Ar$ by the $H_{2}$ molecules and the H atoms
 
 > Thus, the ratio of emission intensities result in:
 
@@ -34,11 +34,11 @@ $$ \frac{ [H (n = 1)] }{ [Ar (3p)] } = F \frac{ k^{Ar*}_{e} }{ k^{H\alpha}_{e} }
 
 > where $F$ is the optical device factor:
 
-$$ F = \frac{ K( \nu_{Ar^{*}} ) \displaystyle \left( \frac{\nu_{Ar^{*}} A_{44}}{k_{R.Ar}} \right) }{ K( \nu_{H_{\alpha}} ) \displaystyle \left( \frac{\nu_{H_{\alpha}} A_{32}}{A_{32} + A_{31}} \right) } $$
+$$ F = \frac{ K( \nu_{Ar} ) \displaystyle \left( \frac{\nu_{Ar} A_{44}}{k_{R.Ar}} \right) }{ K( \nu_{H_{\alpha}} ) \displaystyle \left( \frac{\nu_{H_{\alpha}} A_{32}}{A_{32} + A_{31}} \right) } $$
 
 here,
 
-$\nu_{Ar^{*}} = \displaystyle \frac{c}{\lambda_{Ar^{*}}}$;
+$\nu_{Ar} = \displaystyle \frac{c}{\lambda_{Ar}}$;
 
 $\nu_{H_{\alpha}} = \displaystyle \frac{c}{\lambda_{H_{\alpha}}}$
 
