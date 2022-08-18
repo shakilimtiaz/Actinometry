@@ -44,4 +44,4 @@ $\nu_{H_{\alpha}} = \displaystyle \frac{c}{\lambda_{H_{\alpha}}}$
 
 > while $Q_{T}$ is the factor representing all quenching:
 
-$$ Q_{T} = Q_{H_{2}} = \frac{ \left( 1 + 0.132 x_{H_{2}} {\sigma_{H_{2}}^{H\alpha}}} PT^{-\frac{1}{2}} \right) }{ \left( 1 + 0.162 x_{H_{2}} \sigma^{Ar*}_{H_{2}} PT^{-\frac{1}{2}} \right) } $$
+$$ Q_{T} = Q_{H_{2}} = \frac{ \left( 1 + 0.132 x_{H_{2}} {\sigma_{H_{2}}^{H\alpha}}}} PT^{-\frac{1}{2}} \right) }{ \left( 1 + 0.162 x_{H_{2}} \sigma^{Ar*}_{H_{2}} PT^{-\frac{1}{2}} \right) } $$
